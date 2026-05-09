@@ -1,4 +1,4 @@
-# Foundations of AI
+# Foundations of AI Assignment
 
 **Welcome! This repository is organized as follows:**
 
