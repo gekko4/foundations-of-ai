@@ -1,4 +1,4 @@
-% --- FACTS ---
+% FACTS
 male(john).
 male(peter).
 male(mike).
@@ -14,7 +14,7 @@ parent(mary, susan).
 parent(peter, mike).
 parent(susan, anna).
 
-% --- RULES ---
+%  RULES 
 % Grandparent rule
 grandparent(GP, GC) :- parent(GP, Parent), parent(Parent, GC).
 
